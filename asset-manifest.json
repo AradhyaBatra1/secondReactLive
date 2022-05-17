@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/secondReactLive/static/css/main.498fa266.css",
+    "main.js": "/secondReactLive/static/js/main.d3379036.js",
+    "static/js/787.9754a06d.chunk.js": "/secondReactLive/static/js/787.9754a06d.chunk.js",
+    "static/media/s11.avif": "/secondReactLive/static/media/s11.9505f7877b137db21b64.avif",
+    "static/media/logo.svg": "/secondReactLive/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/secondReactLive/index.html",
+    "main.498fa266.css.map": "/secondReactLive/static/css/main.498fa266.css.map",
+    "main.d3379036.js.map": "/secondReactLive/static/js/main.d3379036.js.map",
+    "787.9754a06d.chunk.js.map": "/secondReactLive/static/js/787.9754a06d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498fa266.css",
+    "static/js/main.d3379036.js"
+  ]
+}
